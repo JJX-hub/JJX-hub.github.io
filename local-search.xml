@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>my First attempt</title>
+    <link href="/2025/04/18/%E5%AD%A6%E4%B9%A0Markdown%E5%86%99%E4%BD%9C/"/>
+    <url>/2025/04/18/%E5%AD%A6%E4%B9%A0Markdown%E5%86%99%E4%BD%9C/</url>
+    
+    <content type="html"><![CDATA[<h1 id="我的第三条blog"><a href="#我的第三条blog" class="headerlink" title="我的第三条blog"></a>我的第三条blog</h1><h2 id="测试终于成功"><a href="#测试终于成功" class="headerlink" title="测试终于成功"></a>测试终于成功</h2><p>经过了昨天和今天的部署和调试,我的网站终于部署好了,并且可以不用本地编译了.<br>不得不说,在这两天就碰到了不少问题,学了不少东西,好在最后终于是完成了.当我看到进程一路绿灯并且deploy指示框终于变成对勾的时候,心里总归是很高兴的.但是越接触越觉得我对这方面的东西了解的太少了,越激发了我的学习兴趣.</p><p>这个主题貌似有点不好看,日后我看看能不能自己修改,或者换一个更好看的.</p><p>md文档格式我现在还有点不懂,也不知道怎么放图片,没事,慢慢学吧</p><h2 id="还有-为什么用这个编辑器句号都打不出来啊"><a href="#还有-为什么用这个编辑器句号都打不出来啊" class="headerlink" title="还有,为什么用这个编辑器句号都打不出来啊"></a>还有,为什么用这个编辑器句号都打不出来啊</h2><p>算了,之后再说吧</p><h2 id="日记-2025-4-18"><a href="#日记-2025-4-18" class="headerlink" title="日记 2025.4.18"></a>日记 2025.4.18</h2><p>我想想,要说一些什么呢?<br>今天早上接到消息说昨天提交的方案报告要修改,好吧,又要占用周六的时间写了.下午把电机的控制板贴好了一块,但是放ESP32主控芯片的柜子锁了,没办法拿到,所以没能调试.</p><p>晚上还有一节课,我是真受不了这节课安排的时间,这么正好就在周五晚上.老师也说过不想上周五课,哈哈,可以看出来.累了一天晚上还要上课,谁受得了啊!今天点名果然一半人都没来,有部分可能是真的有事,做实验或者参加学术会议去了.但是我觉得大部分人是不想来的.</p><p>上完课回来,想一想办法能不能把柜子的锁打开,老师发了一堆可能的密码,我试了一下都不对.看到锁体上的二维码,欸!扫一下瞅瞅是什么东西.果然,在说明书里发现了初试密码.那为何不试一试呢?</p><p>输入完以后果然开了,哼哼.</p><p>看起来今天好像也没干什么.我有这种感受已经很久了.大部分时间好像都在做一些不能让自己进步的事情.并且感觉每天的最后几个小时才是真正属于自己的.</p><p>时候也不早了,回去洗漱一下,然后背背单词,看看自己喜欢的书,和喜欢的人打打视频,再看看正在追的动漫,就结束这一天吧.</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>1</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>my first blog</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2025/04/18/hello-world/"/>
+    <url>/2025/04/18/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>my First attempt</title>
+    <link href="/2025/04/13/my-First-attempt/"/>
+    <url>/2025/04/13/my-First-attempt/</url>
+    
+    <content type="html"><![CDATA[<h1 id="这是我的第一条blog"><a href="#这是我的第一条blog" class="headerlink" title="这是我的第一条blog"></a>这是我的第一条blog</h1><h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>今天我终于有时间，有兴趣，有精力来试一试做一篇自己的blog。感谢rsq提供的资料，让我节省了大量的部署时间。<br>众所周知（放屁，我就不知道）：<br>Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。<br>Hexo可以简单快速的搭建你的个人Blog并部署到你的域名或折到Github Pages当然，也可以是Gitlab Pages<br>具体可以参照Hexo官网</p><h2 id="为什么想到要写blog？"><a href="#为什么想到要写blog？" class="headerlink" title="为什么想到要写blog？"></a>为什么想到要写blog？</h2><p>  自从进入大学以来，我好像一篇像样的文章都没有写过。我已经深深感觉到写作能力在下降，甚至已经丧失了写作能力。因此想要一个载体来提供我写作或者记录一些东西，厌倦了纸质的写作方式（并不是说在纸上记录不好，只是想尝试一点新的东西），在看到了别人写的blog以后，就萌生了自己也要创建一个自己的blog网站的想法。这个想法持续了好久，这个周末终于有时间（也不算有时间，其实这个时候还有好多事情要做，就是现在不想做了，再说今天是休息日，我为什么要做呢💩😋）来瞅瞅这究竟是怎么一回事。</p><h2 id="以后应该怎么做？"><a href="#以后应该怎么做？" class="headerlink" title="以后应该怎么做？"></a>以后应该怎么做？</h2><ul><li><p><strong>慢慢学习</strong><br>说实话我也是刚开始接触这类东西，甚至从去年下半年才真正刚开始接触编程。在读研的这段时间里，主动或者被迫学习了很多东西，创建blog对我来说也是一个学习的机会和过程吧，希望我能坚持下去。</p></li><li><p><strong>创建自己的小王国</strong><br>HEXO功能好像很强大，在建立的过程中我见到了别人很多有趣的，好看的个人blog。我想我也能够做的那样好吧，只要我能够坚持下去。</p><p>我想着在每天晚上下班之后，有一小段时间写一写自己的想法和感受。或者在周末、放假时整理一下这段时间发生的事情。又或者看了某篇文章，看了某本书有了感想，我想我都会写下来。</p></li></ul><p>最后希望以后一切顺利吧~！😉</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>1</category>
+      
+      <category>2</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>my first blog</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>my First attempt</title>
+    <link href="/2025/04/13/%E6%B5%8B%E8%AF%95HEXO%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2/"/>
+    <url>/2025/04/13/%E6%B5%8B%E8%AF%95HEXO%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2/</url>
+    
+    <content type="html"><![CDATA[<h1 id="这是我的第二条blog"><a href="#这是我的第二条blog" class="headerlink" title="这是我的第二条blog"></a>这是我的第二条blog</h1><h2 id="测试用"><a href="#测试用" class="headerlink" title="测试用"></a>测试用</h2><p>昨天忙了一整天写报告，今天没那么忙了，有点时间搞一搞自动部署blog，这样就不用每次都用HEXO三件套指令来运行编译。不然当写的文章越来越多的时候，编译的时间会越来越长。<br>我现在只需要每次完成blog的编写或修改以后，将改动直接push到我的远程仓库，之后的编译过程就不用我管了。嘻嘻😃<br>挺开心的，今天早点下班。明天早上得把板子贴好调试了。又要忙一阵子了。</p><p>所以为什么提交不成功。</p><p>OK，他现在成功了，我可以吃饭去了。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>1</category>
+      
+      <category>2</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>my first blog</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
